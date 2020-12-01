@@ -1,0 +1,6 @@
+framework module Pods_1lensTest {
+  umbrella header "Pods-1lensTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
